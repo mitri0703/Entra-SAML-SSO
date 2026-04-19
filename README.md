@@ -1,4 +1,4 @@
-# Project – SAML SSO with Microsoft Entra ID (BlueWave HR Portal)
+# Project 2 – SAML SSO with Microsoft Entra ID (BlueWave HR Portal)
 
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-Enterprise%20SSO-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
